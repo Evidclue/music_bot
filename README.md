@@ -1,4 +1,4 @@
-# Ada Music Bot 🎵
+# ⏤͟͞⚡️𝘼𝘿𝘼 ✘𝙎𝙏𝙍𝙀𝘼𝙈˼⃝࿐🫧
 
 **Your Ultimate Telegram Music Companion!**
 
