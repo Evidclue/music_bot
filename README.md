@@ -31,10 +31,11 @@ Check out the full list of commands and features in the [Wiki](#).
 - Fast, reliable, and always online.
 - High-quality audio playback.
 - Designed with simplicity and efficiency in mind.
-
 ---
 
 ## 🛠️ Installation (Optional for Developers):
 1. Clone the repository:
    ```bash
    git clone https://github.com/YourGitHubUsername/AdaMusicBot.git
+
+© 2025 Ada Music Bot | Powered by Telegram API
